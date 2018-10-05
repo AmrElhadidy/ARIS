@@ -9,4 +9,4 @@ It can be connected to a hardware kit via Bluetooth or USB cable. So, it can be 
 Developed in .NET framework using C#.
 
 
-Notes: 1) Put a txt file along with the exe that contains your specific commands to be loaded on initialization.
+Notes: Put a txt file that contains your specific commands in the exe path to be loaded on initialization.
